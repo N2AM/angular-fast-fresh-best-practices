@@ -2,6 +2,6 @@
 
 # set sourceMap && namedChunks = true
 
-# analysis bundle and remove unused parts using globaly installed source-map-explorer
+# analys bundle and remove unused parts using globaly installed source-map-explorer
 
-# lazyloading moudles using cli
+# lazyloading moudles using cli (ng g m --module app.module --route about about)
