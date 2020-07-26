@@ -1,5 +1,7 @@
 # angular-fast-fresh-best-practices
 
-#analysis bundle and remove unused parts
+# set sourceMap && namedChunks = true
 
-#lazyloading moudles using cli
+# analysis bundle and remove unused parts using globaly installed source-map-explorer
+
+# lazyloading moudles using cli

@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fast-fresh-best-practices"
+    }
+  },
+  "defaultProject": "fast-fresh-best-practices",
+  "cli": {
+    "analytics": false
+  }
 }
