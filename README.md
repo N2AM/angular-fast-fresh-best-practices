@@ -18,7 +18,7 @@
 
 # Monitor unused bytes using coverage in chrome's dev tools
 
-# Content Comprees JS files
+# Content Compress JS files
 
 # Using Http2
 
@@ -27,3 +27,5 @@
 # Diffrential Loading
 
 # Angular Universal ( SSR - Prerender )
+
+# Adding nestjs ==> ( ng add @nestjs/ng-universal )
